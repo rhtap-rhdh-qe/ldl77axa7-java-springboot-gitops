@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ldl77axa7-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ldl77axa7-java-springboot
